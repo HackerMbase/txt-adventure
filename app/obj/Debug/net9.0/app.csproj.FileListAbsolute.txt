@@ -12,3 +12,17 @@ C:\Users\maxba\Desktop\textbased adventure game\app\obj\Debug\net9.0\refint\app.
 C:\Users\maxba\Desktop\textbased adventure game\app\obj\Debug\net9.0\app.pdb
 C:\Users\maxba\Desktop\textbased adventure game\app\obj\Debug\net9.0\app.genruntimeconfig.cache
 C:\Users\maxba\Desktop\textbased adventure game\app\obj\Debug\net9.0\ref\app.dll
+C:\Users\maxba\Desktop\textbased adventure game\nat_csd1-eindopdracht-textbasedadventuregame-Max-Baselier\app\bin\Debug\net9.0\app.exe
+C:\Users\maxba\Desktop\textbased adventure game\nat_csd1-eindopdracht-textbasedadventuregame-Max-Baselier\app\bin\Debug\net9.0\app.deps.json
+C:\Users\maxba\Desktop\textbased adventure game\nat_csd1-eindopdracht-textbasedadventuregame-Max-Baselier\app\bin\Debug\net9.0\app.runtimeconfig.json
+C:\Users\maxba\Desktop\textbased adventure game\nat_csd1-eindopdracht-textbasedadventuregame-Max-Baselier\app\bin\Debug\net9.0\app.dll
+C:\Users\maxba\Desktop\textbased adventure game\nat_csd1-eindopdracht-textbasedadventuregame-Max-Baselier\app\bin\Debug\net9.0\app.pdb
+C:\Users\maxba\Desktop\textbased adventure game\nat_csd1-eindopdracht-textbasedadventuregame-Max-Baselier\app\obj\Debug\net9.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxba\Desktop\textbased adventure game\nat_csd1-eindopdracht-textbasedadventuregame-Max-Baselier\app\obj\Debug\net9.0\app.AssemblyInfoInputs.cache
+C:\Users\maxba\Desktop\textbased adventure game\nat_csd1-eindopdracht-textbasedadventuregame-Max-Baselier\app\obj\Debug\net9.0\app.AssemblyInfo.cs
+C:\Users\maxba\Desktop\textbased adventure game\nat_csd1-eindopdracht-textbasedadventuregame-Max-Baselier\app\obj\Debug\net9.0\app.csproj.CoreCompileInputs.cache
+C:\Users\maxba\Desktop\textbased adventure game\nat_csd1-eindopdracht-textbasedadventuregame-Max-Baselier\app\obj\Debug\net9.0\app.dll
+C:\Users\maxba\Desktop\textbased adventure game\nat_csd1-eindopdracht-textbasedadventuregame-Max-Baselier\app\obj\Debug\net9.0\refint\app.dll
+C:\Users\maxba\Desktop\textbased adventure game\nat_csd1-eindopdracht-textbasedadventuregame-Max-Baselier\app\obj\Debug\net9.0\app.pdb
+C:\Users\maxba\Desktop\textbased adventure game\nat_csd1-eindopdracht-textbasedadventuregame-Max-Baselier\app\obj\Debug\net9.0\app.genruntimeconfig.cache
+C:\Users\maxba\Desktop\textbased adventure game\nat_csd1-eindopdracht-textbasedadventuregame-Max-Baselier\app\obj\Debug\net9.0\ref\app.dll

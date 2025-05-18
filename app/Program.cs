@@ -145,10 +145,14 @@ class Program
         if (succes)
         {
             Console.WriteLine($"\nGefeliciteerd {naam}, je hebt het avontuur overleefd!");
+            Console.WriteLine("Press any key to exit...");
+            Console.ReadKey();
         }
         else
         {
             Console.WriteLine($"\nJammer {naam}, je avontuur is ten einde.");
+            Console.WriteLine("Press any key to exit...");
+            Console.ReadKey();
         }
     }
 }

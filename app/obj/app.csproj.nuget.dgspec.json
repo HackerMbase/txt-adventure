@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxba\\Desktop\\textbased adventure game\\app\\app.csproj": {}
+    "C:\\Users\\maxba\\Desktop\\textbased adventure game\\nat_csd1-eindopdracht-textbasedadventuregame-Max-Baselier\\app\\app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxba\\Desktop\\textbased adventure game\\app\\app.csproj": {
+    "C:\\Users\\maxba\\Desktop\\textbased adventure game\\nat_csd1-eindopdracht-textbasedadventuregame-Max-Baselier\\app\\app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxba\\Desktop\\textbased adventure game\\app\\app.csproj",
+        "projectUniqueName": "C:\\Users\\maxba\\Desktop\\textbased adventure game\\nat_csd1-eindopdracht-textbasedadventuregame-Max-Baselier\\app\\app.csproj",
         "projectName": "app",
-        "projectPath": "C:\\Users\\maxba\\Desktop\\textbased adventure game\\app\\app.csproj",
+        "projectPath": "C:\\Users\\maxba\\Desktop\\textbased adventure game\\nat_csd1-eindopdracht-textbasedadventuregame-Max-Baselier\\app\\app.csproj",
         "packagesPath": "C:\\Users\\maxba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxba\\Desktop\\textbased adventure game\\app\\obj\\",
+        "outputPath": "C:\\Users\\maxba\\Desktop\\textbased adventure game\\nat_csd1-eindopdracht-textbasedadventuregame-Max-Baselier\\app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxba\\AppData\\Roaming\\NuGet\\NuGet.Config"
